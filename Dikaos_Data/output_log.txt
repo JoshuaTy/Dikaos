@@ -1,0 +1,83 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 710M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   23.21.13.9101
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\acer\Documents\USC Files\3rd year 1st Sem\Unknown\Dikaos_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  1.560 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.951700 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.806900 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 799.
+Total: 1.579200 ms (FindLiveObjects: 0.067700 ms CreateObjectMapping: 0.035200 ms MarkObjects: 0.441200 ms  DeleteObjects: 1.034100 ms)
+
+ad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ey
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+baby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.425200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 799.
+Total: 0.577300 ms (FindLiveObjects: 0.127200 ms CreateObjectMapping: 0.026200 ms MarkObjects: 0.407000 ms  DeleteObjects: 0.015800 ms)
+
+ad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ey
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+baby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.263000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 799.
+Total: 0.444700 ms (FindLiveObjects: 0.059800 ms CreateObjectMapping: 0.025700 ms MarkObjects: 0.352500 ms  DeleteObjects: 0.006100 ms)
+
+ad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ey
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+baby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 35b0 -> priority: 1 
+  Thread -> id: 2c14 -> priority: 1 

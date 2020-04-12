@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ChangeScene.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="37" Column="69" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="48" Column="4" />
+      <File FileName="Assets\Scripts\ObstacleController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BombController.cs" Line="46" Column="1" />
+      <File FileName="Assets\Scripts\TriangleController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HandsController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CircleController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelManagerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChangeScene.cs" Line="49" Column="31" />
+      <File FileName="Assets\Scripts\EnemyTextController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Fading.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveObstacle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BossController.cs" Line="23" Column="36" />
+      <File FileName="Assets\Scripts\TprojController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Delete.cs" Line="17" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
